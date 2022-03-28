@@ -1,6 +1,6 @@
 # tugas_pml_33220026
 Tugas Pembelajaran Mesin Lanjut Eksplorasi Hyperparameter 
-/n
+<br>
 Nama: Handoko Supeno
-/n
+<br>
 NIM:33220026
